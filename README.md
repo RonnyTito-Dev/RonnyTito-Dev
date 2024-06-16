@@ -23,7 +23,7 @@
 
 
 ## Tecnologías conocidas 💻
-<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,java,py,vscode,linux">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,py,vscode,linux">
 <br> </br>
 
 
