@@ -43,6 +43,7 @@
         <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge">
         <br> <br>
         <p> Este proyecto es un sistema de agenda de contactos que permite a los usuarios crear una cuenta para almacenar sus contactos, así como crear, editar, eliminar y mostrar tanto contactos como grupos de contactos. </p>
+        <a href="https://github.com/RonnyTito-Dev/Agenda-Contactos" target="_blank"> <img src="https://img.shields.io/badge/VER%20PROYECTO-00C244?logo=GitHub&logoColor=white&style=for-the-badge"> </a>
       </div>
    </td>
 
