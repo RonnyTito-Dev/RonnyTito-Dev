@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, soy Ronny :wave: </h1>
 
-![Mi Portada](https://i.ibb.co/8DnyJZd/Mi-Portada-Git-Hub.png)
+![Mi Portada](https://i.postimg.cc/3R3SKbyL/Mi-Portada-Git-Hub.png)
 
 <br>
 
@@ -35,7 +35,7 @@
     <td width="50%" valign="top" align="center">
       <h3> Agenda de Contactos - CRUD </h3>
       <div>
-        <img src="https://i.ibb.co/bgWzVSg/CRUD-Agenda-Contactos.png">
+        <img src="https://i.postimg.cc/9fdgHjfR/CRUD-Agenda-Contactos.png">
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
         <img src="https://img.shields.io/badge/JS-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
@@ -50,7 +50,7 @@
    <td width="50%" valign="top" align="center">
       <h3> Otros Proyectos </h3>
       <div> 
-        <img src="https://i.ibb.co/Q8r0kMk/Nuevos-Proyectos-Git-Hub.png">
+        <img src="https://i.postimg.cc/KYSpWYmh/Nuevos-Proyectos-Git-Hub.png">
         <img src="https://img.shields.io/badge/PRONTO DISPONIBLE-FF880F?logo=slickpic&logoColor=white&style=for-the-badge">
         <br> <br>
         <p> ¡Este proyecto pronto estará disponible! </p>
